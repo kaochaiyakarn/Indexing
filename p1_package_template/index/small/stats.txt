@@ -1,0 +1,6 @@
+Indexing Test Result: ./index/small:
+	Total Files Indexed: 6
+	Memory Used: 0.341744 MBs
+	Time Used: 0.074 secs
+	Index Size: 2.17437744140625E-4 MBs
+	Alright. Good Bye.
